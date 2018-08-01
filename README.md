@@ -36,7 +36,7 @@ Download the caffe VGG16 model from [HERE](https://drive.google.com/open?id=1AEJ
 
 ## Datasets
 
-We have collected human eyetracking data in two increasingly complex visual search tasks: object arrays and natural images. You can **download** the complete dataset rom [HERE](https://drive.google.com/file/d/1ZvmugJDds-CrwTvhIXmyYVxnniNmx7ce/view?usp=sharing) (total size: ~7GB). It contains ```Datasets``` folder: search images, targets, ground truth, psychophysics (human eyetracking data, MATLAB function to process and extract fixations.
+We have collected human eyetracking data in two increasingly complex visual search tasks: object arrays and natural images. You can **download** the complete dataset rom [HERE](https://drive.google.com/file/d/1ZvmugJDds-CrwTvhIXmyYVxnniNmx7ce/view?usp=sharing) (total size: ~7GB). It contains ```Datasets``` folder: search images, targets, ground truth, psychophysics (human eyetracking data, MATLAB function to process and extract fixations).
 
 ## Code Usage
 
