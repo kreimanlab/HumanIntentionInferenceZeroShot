@@ -1,8 +1,8 @@
-# What am I searching for?
+# What am I Searching for: Zero-shot Target Identity Inference in Visual Search
 
-Authors: Mengmi Zhang, Jiashi Feng, Joo Hwee Lim, Qi Zhao, and Gabriel Kreiman
+Authors: Mengmi Zhang, and Gabriel Kreiman
 
-This repository contains an implementation of a zero-shot deep learning model for inferring human intentions (what the human subject is searching for) based on fixation patterns. Our paper is currently under review.
+This repository contains an implementation of a zero-shot deep learning model for inferring human intentions (what the human subject is searching for) based on fixation patterns. Our paper has been accepted in EPIC-CVPR workshop, 2020.
 
 An unofficial copy of our manuscript is [HERE](http://arxiv.org/abs/1807.11926).
 
