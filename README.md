@@ -12,6 +12,10 @@ Can we infer intentions and goals from a person's actions? As an example of this
 
 [![problemintro](img/Capture.JPG)](img/Capture.JPG)
 
+Here we show an example. The figure shows the error fixations indicated by yellow number in the visual search process of one human subject (Column 1), the inference maps predicted by our InferNet based on human error fixations (Column 2) and the inferred target location denoted by green numbers (Column 3) from the inference maps. Red color denotes higher probability of being the search target.
+
+[![problemintro](img/1-teaser.gif)](img/1-teaser.gif)
+
 ## Pre-requisite
 
 The code has been successfully tested on Ubuntu 14.04. GPU is highly recommended (6GB GPU memory at least). 
